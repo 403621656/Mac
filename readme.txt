@@ -5,4 +5,4 @@ Git is free software.   Oaoa2
 
 try~~~本地~~~
 
-本地新增text——mac~
+合并新增~~~~
